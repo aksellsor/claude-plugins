@@ -9,6 +9,12 @@ claude plugin marketplace add aksellsor/claude-plugins
 claude plugin install aksell-project
 ```
 
+## Update
+
+```bash
+claude plugin update aksell-project@aksell
+```
+
 ## Plugins
 
 ### aksell-project
