@@ -1,0 +1,30 @@
+{
+  "name": "aksell",
+  "owner": {
+    "name": "Aksell",
+    "email": "lasse.spilling@aksell.no"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for Aksell — aksell-ui, internal tooling, and project scaffolding.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "aksell-project",
+      "source": "./aksell-project",
+      "description": "Scaffold and build Aksell internal tools using aksell-ui. Asks planning questions, runs create-aksell, and implements pages with correct aksell-ui components.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Aksell"
+      },
+      "category": "development",
+      "keywords": [
+        "aksell",
+        "aksell-ui",
+        "scaffold",
+        "create-aksell",
+        "internal-tools"
+      ]
+    }
+  ]
+}

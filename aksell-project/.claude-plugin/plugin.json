@@ -1,0 +1,20 @@
+{
+  "name": "aksell-project",
+  "version": "1.0.0",
+  "description": "Scaffold and build Aksell internal tools using aksell-ui. Asks planning questions, runs create-aksell, and implements pages with correct aksell-ui components.",
+  "author": {
+    "name": "Aksell",
+    "url": "https://github.com/aksellsor"
+  },
+  "homepage": "https://github.com/aksellsor/claude-plugins",
+  "repository": "https://github.com/aksellsor/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "aksell",
+    "aksell-ui",
+    "scaffold",
+    "create-aksell",
+    "internal-tools"
+  ],
+  "skills": "./skills/"
+}
