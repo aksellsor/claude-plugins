@@ -13,7 +13,7 @@
       "name": "aksell-project",
       "source": "./aksell-project",
       "description": "Scaffold and build Aksell internal tools using aksell-ui. Asks planning questions, runs create-aksell, and implements pages with correct aksell-ui components.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "Aksell"
       },
